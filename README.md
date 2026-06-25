@@ -126,7 +126,7 @@ Nova página entra no frame liberado → vai para o final da fila
 ### Requisitos
 
 - Python 3.x — [python.org/downloads](https://www.python.org/downloads)
-- Nenhuma biblioteca externa necessária (usa apenas módulos da biblioteca padrão)
+- Nenhuma biblioteca externa necessária (usei apenas módulos da biblioteca padrão do python)
 
 ### Executando o simulador
 
@@ -245,9 +245,8 @@ A principal diferença deste simulador em relação a um SO real está na **simp
 
 ---
 
-## Vídeo de Apresentação
-
-📺 Assista no YouTube: [https://youtu.be/8gpQocQm760](https://youtu.be/8gpQocQm760)
+## Vídeo Explicativo do código
+Link YouTube: [https://youtu.be/8gpQocQm760](https://youtu.be/8gpQocQm760)
 
 ---
 
